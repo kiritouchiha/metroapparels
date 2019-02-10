@@ -1,4 +1,4 @@
 # metroapparels
-A web dev project
+A web development project
 
 
